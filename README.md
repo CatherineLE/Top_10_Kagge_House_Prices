@@ -5,11 +5,13 @@
 
 # Top 10% in Kaggle competition
 
-How to improve your score in Kaggle competition  \
-`P8_01_code_copy()` for the code \
-`pep8.py` for the pipeline from csv input to csv output.
+How to improve your score in Kaggle competition  
 
 
+`P8_01_code_copy().ipynb` the code \
+`pep8.py`  the pipeline from 2 input csv to output csv \
+`P8_03_presentation.pdf` a quick overview (in french) \
+`P8_02_rapport.pdf` a quick report (in french) 
 
 https://www.kaggle.com/catherine83/competitions
 
